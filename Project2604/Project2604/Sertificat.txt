@@ -1,0 +1,19 @@
+Pocupca avto:
+Nazv:name1
+Mark :marc1
+God vipusca:01.05.2021
+Obem dvigatela :10.lr
+Kuzov :Kuzov1
+Stoimost :10000
+Oformil zacaz Menedzer:
+Vasa1
+Pupcin
+Versia1
+data ustroistva :1.1.2000
+telefon:(111)222-222
+staz :11
+Pocupatel :
+Peta Petcin Patochin
+telefon :(111)222-333
+adres :ul.Gdeto
+cod :i6n5m444

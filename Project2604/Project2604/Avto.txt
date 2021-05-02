@@ -1,0 +1,6 @@
+name1 marc1 01.05.2021 10.lr Kuzov1 10000 1
+name2 marc2 01.05.2021 11.lr Kuzov2 12000 1
+name3 marc3 01.05.2021 12.lr Kuzov3 13000 1
+name4 marc4 01.05.2021 13.lr Kuzov4 14000 1
+name5 marc5 01.05.2021 14.lr Kuzov5 15000 1
+name6 marc6 01.05.2021 15.lr Kuzov6 16000 1
